@@ -19,8 +19,15 @@ The project is organized into the following folders:
 - `index.js`: Entry point of the application.
 
 ## 📸 Screenshots
+<h3>🟢 Start Screen</h3>
+<img src="https://github.com/user-attachments/assets/469b52f7-6b3b-497c-b70e-fc6ee1362615" width="300"/>
 
+<h3>🎮 Game Screen</h3>
+<img src="https://github.com/user-attachments/assets/7f5873a0-5ca1-4534-b614-32000c9ba14a" width="300"/>
+<img src="https://github.com/user-attachments/assets/a68b9433-c3f5-46c5-a732-344937970fc0" width="300"/>
 
+<h3>🔴 Game Over Screen</h3>
+<img src="https://github.com/user-attachments/assets/410fd1de-919b-4787-a7b6-e9c8ac4628e2" width="300"/>
 
 ## 📦 Installation
 
